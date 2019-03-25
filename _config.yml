@@ -2,7 +2,7 @@
 title: Doichi-doichi's Tech Blog
 description: ""
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
-url: "https://todd-choi.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
+url: "https://doichi-doichi.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
 username: doichi-doichi
@@ -13,7 +13,7 @@ github_username:  ""
 gplus_username:  ""
 linkedin_public_url: "" # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: ""
-profile_picture: "/src/img/blog-author.jpg"
+profile_picture: ""
 
 # Build settings
 markdown: kramdown
