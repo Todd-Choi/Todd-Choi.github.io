@@ -1,11 +1,11 @@
 # Site settings
-title: Todd's Tech Blog
+title: Doichi-doichi's Tech Blog
 description: ""
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "https://todd-choi.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: Todd Choi
+username: doichi-doichi
 user_title: ""
 email: ""
 twitter_username: ""
